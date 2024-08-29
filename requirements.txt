@@ -5,3 +5,5 @@ flask
 pydantic
 pymongo
 dotenv
+pip>=24.2
+setuptools>=65.0
