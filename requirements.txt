@@ -4,7 +4,7 @@ motor
 flask
 pydantic
 pymongo
-dotenv
+python-dotenv
 pip>=24.2
 setuptools>=65.0
 wheel>=0.36.2
